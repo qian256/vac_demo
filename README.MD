@@ -1,6 +1,6 @@
-VAC Demo
+Vergence-Accommodation Conflict Demo
 ===
-Author: Long Qian
+Author: [Long Qian](https://longqian.me)
 
 Date: 2016-10-07
 
